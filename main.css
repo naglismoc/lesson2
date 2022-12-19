@@ -5,3 +5,7 @@ body{
 p{
     color:black;
 }
+
+h1{
+    font-weight: 900;
+}
